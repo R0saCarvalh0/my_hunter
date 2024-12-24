@@ -1,0 +1,10 @@
+PROJECT:
+This project is another version of "Duck Hunt",
+In this version, we are in a post-apocalyptic world where dinosaurs have regained their rights
+The goal is simple, you have to annihilate the dinosaurs once again.
+
+USE:
+To destroy a dinosaur, click on it before it manages to cross the screen.
+You have three lives, if a dinosaur manages to cross the screen, you lose a life.
+if you have no more lives, a GAME OVER page will appear to replay, close the page and restart the game.
+to close the game, press the cross or the escape key on the keyboard.
